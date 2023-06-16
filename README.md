@@ -13,5 +13,6 @@ This repository contains python notebook used to build DenseNet architecture use
 
 ## Training Results
 The model achieved a root mean squared error of 15000 seconds for training and validation dataset. Which translates to 4 hours.
-
+<p align="center">
 ![Training Results](https://github.com/LetSea-Nautical/ml-model/blob/main/assets/model%20rmse.jpg)
+</p>
